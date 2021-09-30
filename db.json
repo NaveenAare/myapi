@@ -50,6 +50,128 @@
     {
       "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/025.jpg?alt=media&token=905c4283-b2b8-4629-80f4-a8822865441b"
     }
+  ],
+
+"chair": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/031.jpg?alt=media&token=66023d5b-1356-48cb-9a74-e565a0c86f12"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/032.jpg?alt=media&token=8d1c727e-2f8e-410c-97ac-6e1fa1afabf1"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/033.jpg?alt=media&token=cefd09c7-ab1c-49c7-a8a0-cd21073fc4f5"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/034.jpg?alt=media&token=4a135a78-18f6-4257-a115-05febff5e8da"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/035.jpg?alt=media&token=12cc3e4b-4d49-497d-86b5-f91054e2b720"
+    }
+  ],
+
+"sofa": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/041.jpg?alt=media&token=e8821661-9def-42f0-a143-6b760f98d0d9"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/042.jpg?alt=media&token=862e6902-5736-462f-b454-29dd73237e2a"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/043.jpg?alt=media&token=211dd191-c74c-4cd9-a096-4805d1bdc45a"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/044.jpg?alt=media&token=5fc47386-67b5-4675-aeec-bff3f77a6a84"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/045.jpg?alt=media&token=3f2221bc-4247-498c-8c28-222090f8fd93"
+    }
+  ],
+"bed": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/051.jpg?alt=media&token=1f18aa76-9fb7-4eb3-b00b-0d08b6bdc95b"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/052.jpg?alt=media&token=d5293322-ca0c-46d6-bc68-3999e909d950"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/053.jpg?alt=media&token=6b9454f5-cb81-4435-b684-f963fc298e52"
+    }
+  ],
+"beds": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/061.jpg?alt=media&token=6b9ed399-dad9-40a6-9562-bf3837d64a06"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/062.jpg?alt=media&token=48025b8f-4121-4209-97cf-8c2d1a5f8b77"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/063.jpg?alt=media&token=5a075be0-b33d-4b97-855e-9b4d65756ff3"
+    }
+  ],
+"pillows": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/071.jpg?alt=media&token=07443828-a094-41a5-9220-3aa855145a44"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/072.jpg?alt=media&token=b521f2e9-962d-4365-8d99-468d59c1dc6c"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/073.jpg?alt=media&token=f8439ea3-9a76-451d-817b-42142631302c"
+    }
+  ],
+"indoor": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/011.jpg?alt=media&token=29795387-7014-4eba-9999-d934f00dad90"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/012.jpg?alt=media&token=cb6e784b-8150-4aef-8276-05757d4ddc95"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/013.jpg?alt=media&token=0af5f995-be0f-4635-9562-81bec5fec7f9"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/014.jpg?alt=media&token=fcea2d22-0cd3-4415-bad4-10950a5372f8"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/015.jpg?alt=media&token=336cdc6b-51aa-4d08-b45c-7dc63f66f77b"
+    }
+  ],
+
+"furniture": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/021.jpg?alt=media&token=bd1b355a-df80-4bcb-8002-16f4ce627819"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/022.jpg?alt=media&token=f9f1ff8a-96dc-47ad-a800-7528a5f10257"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/023.jpg?alt=media&token=2e35809a-4c0b-469d-baf6-e96394b72b6a"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/024.jpg?alt=media&token=f2791168-4a39-4d76-9e9e-97ccee8a9332"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/025.jpg?alt=media&token=905c4283-b2b8-4629-80f4-a8822865441b"
+    }
+  ],
+
+"chair": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/031.jpg?alt=media&token=66023d5b-1356-48cb-9a74-e565a0c86f12"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/032.jpg?alt=media&token=8d1c727e-2f8e-410c-97ac-6e1fa1afabf1"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/033.jpg?alt=media&token=cefd09c7-ab1c-49c7-a8a0-cd21073fc4f5"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/034.jpg?alt=media&token=4a135a78-18f6-4257-a115-05febff5e8da"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/035.jpg?alt=media&token=12cc3e4b-4d49-497d-86b5-f91054e2b720"
+    }
   ]
 
 
