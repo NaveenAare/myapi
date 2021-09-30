@@ -1,0 +1,58 @@
+{
+  "Categories":[{
+  "book": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/001.jpg?alt=media&token=7d4dee67-84c3-43ce-8831-e2fab88bfb04"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/002.jpg?alt=media&token=70d51461-05d9-47f2-a21a-e01751ef67a0"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/003.jpg?alt=media&token=392a808d-a14c-4077-8395-07f0b129b392"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/004.jpg?alt=media&token=c6ad043a-cc6c-4ce2-85c3-461def480b03"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/005.jpg?alt=media&token=f823de89-648e-48cf-9001-75fb7bed9d29"
+    }
+  ],"indoor": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/011.jpg?alt=media&token=29795387-7014-4eba-9999-d934f00dad90"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/012.jpg?alt=media&token=cb6e784b-8150-4aef-8276-05757d4ddc95"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/013.jpg?alt=media&token=0af5f995-be0f-4635-9562-81bec5fec7f9"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/014.jpg?alt=media&token=fcea2d22-0cd3-4415-bad4-10950a5372f8"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/015.jpg?alt=media&token=336cdc6b-51aa-4d08-b45c-7dc63f66f77b"
+    }
+  ],
+
+"furniture": [
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/021.jpg?alt=media&token=bd1b355a-df80-4bcb-8002-16f4ce627819"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/022.jpg?alt=media&token=f9f1ff8a-96dc-47ad-a800-7528a5f10257"
+    },
+     {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/023.jpg?alt=media&token=2e35809a-4c0b-469d-baf6-e96394b72b6a"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/024.jpg?alt=media&token=f2791168-4a39-4d76-9e9e-97ccee8a9332"
+    },
+    {
+      "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/025.jpg?alt=media&token=905c4283-b2b8-4629-80f4-a8822865441b"
+    }
+  ]
+
+
+}]
+
+}
