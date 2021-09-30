@@ -120,7 +120,7 @@
       "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/073.jpg?alt=media&token=f8439ea3-9a76-451d-817b-42142631302c"
     }
   ],
-"indoor": [
+"myindoor": [
     {
       "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/011.jpg?alt=media&token=29795387-7014-4eba-9999-d934f00dad90"
     },
@@ -138,7 +138,7 @@
     }
   ],
 
-"furniture": [
+"myfurniture": [
     {
       "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/021.jpg?alt=media&token=bd1b355a-df80-4bcb-8002-16f4ce627819"
     },
@@ -156,7 +156,7 @@
     }
   ],
 
-"chair": [
+"mychair": [
     {
       "url" : "https://firebasestorage.googleapis.com/v0/b/atozonlinemarketdeliversquickl.appspot.com/o/031.jpg?alt=media&token=66023d5b-1356-48cb-9a74-e565a0c86f12"
     },
